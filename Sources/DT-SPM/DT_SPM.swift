@@ -1,3 +1,3 @@
-struct DT_SPM {
+public struct DT_SPM {
     var text = "Hello, World!"
 }
